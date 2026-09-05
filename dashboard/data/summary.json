@@ -1,8 +1,8 @@
 {
   "mode": "paper",
   "note": "Paper record only -- no sportsbook connected. Public lines, -110 assumed juice where noted. Units, not dollars.",
-  "generated_at_utc": "2026-09-05T16:32:14+00:00",
-  "last_updated_utc": "2026-09-05T16:32:14+00:00",
+  "generated_at_utc": "2026-09-05T16:57:01+00:00",
+  "last_updated_utc": "2026-09-05T16:57:01+00:00",
   "flags": {
     "made": 3,
     "graded": 0,
@@ -11,20 +11,5 @@
     "losses": 0,
     "pushes": 0,
     "units_won": 0.0
-  },
-  "leans": {
-    "made": 76,
-    "graded": 0,
-    "pending": 76,
-    "wins": 0,
-    "losses": 0,
-    "pushes": 0
-  },
-  "calibration": {
-    "buckets": [],
-    "overall_n": 0,
-    "overall_realized_win_rate": null,
-    "overall_breakeven_rate": null,
-    "overall_edge_vs_breakeven": null
   }
 }
