@@ -77,9 +77,11 @@ function renderPicks(picks) {
     tbody.innerHTML = '<tr><td colspan="8" class="empty-row">No picks yet.</td></tr>';
     return;
   }
+  // newest game date first; pending (no result) above graded within a date
+  rows.sort((a, b) => String(b.game_date || '').localeCompare(String(a.game_date || '')));
   tbody.innerHTML = rows.map(p => `
     <tr>
-      <td>${fmtDate(p.graded_at_utc)}</td>
+      <td>${p.game_date || '—'}</td>
       <td>${p.matchup || '—'}</td>
       <td>${(p.market || '—').toUpperCase()}</td>
       <td>${p.selection || '—'}</td>
