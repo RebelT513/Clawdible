@@ -1,4 +1,4 @@
-/* Saturdius — CFB paper-performance dashboard (no external dependencies) */
+/* Clawdible — CFB paper-performance dashboard (no external dependencies) */
 
 async function load(url) {
   try {
