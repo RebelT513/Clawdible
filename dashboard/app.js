@@ -34,6 +34,13 @@ function badge(result) {
   return `<span class="badge ${cls}">${label}</span>`;
 }
 
+function fmtOdds(odds, assumed) {
+  if (odds === null || odds === undefined) return '—';
+  const n = parseInt(odds, 10);
+  if (isNaN(n)) return '—';
+  return (n > 0 ? '+' + n : String(n)) + (assumed ? '*' : '');
+}
+
 function fmtLine(line, market) {
   if (line === null || line === undefined) return '—';
   const n = parseFloat(line);
@@ -74,7 +81,7 @@ function renderPicks(picks) {
   const tbody = el('flags-table-body');
   const rows = (picks || []).filter(p => p.kind === 'flag');
   if (!rows.length) {
-    tbody.innerHTML = '<tr><td colspan="8" class="empty-row">No picks yet.</td></tr>';
+    tbody.innerHTML = '<tr><td colspan="9" class="empty-row">No picks yet.</td></tr>';
     return;
   }
   // newest game date first; pending (no result) above graded within a date
@@ -86,6 +93,7 @@ function renderPicks(picks) {
       <td>${(p.market || '—').toUpperCase()}</td>
       <td>${p.selection || '—'}</td>
       <td>${fmtLine(p.line, p.market)}</td>
+      <td>${fmtOdds(p.odds, p.odds_is_assumed)}</td>
       <td>${p.p !== null && p.p !== undefined ? fmtPct(p.p) : '—'}</td>
       <td>${p.units !== undefined && p.units !== null ? p.units + 'u' : '—'}</td>
       <td>${badge(p.result)}</td>
