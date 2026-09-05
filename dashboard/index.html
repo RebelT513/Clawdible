@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Clawdible — CFB Paper Track Record</title>
+  <title>Clawdible — CFB Track Record</title>
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -25,11 +25,11 @@
     <!-- Top stat strip -->
     <div class="stat-strip">
       <div class="stat-card">
-        <div class="stat-label">Flags Made</div>
+        <div class="stat-label">Picks Made</div>
         <div class="stat-value" id="flags-made">—</div>
       </div>
       <div class="stat-card stat-card--lead">
-        <div class="stat-label">Flag Record</div>
+        <div class="stat-label">Record</div>
         <div class="stat-value" id="flag-record">—</div>
       </div>
       <div class="stat-card">
@@ -37,18 +37,14 @@
         <div class="stat-value" id="units-pnl">—</div>
       </div>
       <div class="stat-card">
-        <div class="stat-label">Leans Tracked</div>
-        <div class="stat-value" id="lean-count">—</div>
-      </div>
-      <div class="stat-card">
-        <div class="stat-label">Calibration Edge</div>
-        <div class="stat-value" id="calib-edge">—</div>
+        <div class="stat-label">Pending</div>
+        <div class="stat-value" id="pending-count">—</div>
       </div>
     </div>
 
-    <!-- Flags table -->
+    <!-- Picks table -->
     <div class="card">
-      <div class="card-title">Flagged Picks (paper bets)</div>
+      <div class="card-title">Picks</div>
       <div class="table-wrap">
         <table>
           <thead>
@@ -64,43 +60,7 @@
             </tr>
           </thead>
           <tbody id="flags-table-body">
-            <tr><td colspan="8" class="empty-row">No flags graded yet.</td></tr>
-          </tbody>
-        </table>
-      </div>
-    </div>
-
-    <!-- Calibration -->
-    <div class="card">
-      <div class="card-title">Lean &amp; Flag Calibration — stated p vs realized win rate</div>
-      <p class="card-subtitle">
-        Every graded pick (flags and leans) bucketed by its own stated win
-        probability. Bar = realized win rate; tick = break-even rate implied
-        by the assumed price. Small samples — read directionally, not as a
-        verdict (CLAUDE.md: ≥20 observations per bucket before drawing
-        conclusions).
-      </p>
-      <div id="calibration-rows"><div class="empty-row">No graded picks yet.</div></div>
-    </div>
-
-    <!-- Leans table -->
-    <div class="card">
-      <div class="card-title">Recent Leans (near-miss visibility, not bets)</div>
-      <div class="table-wrap">
-        <table>
-          <thead>
-            <tr>
-              <th>Graded</th>
-              <th>Game</th>
-              <th>Market</th>
-              <th>Lean</th>
-              <th>Line</th>
-              <th>p</th>
-              <th>Result</th>
-            </tr>
-          </thead>
-          <tbody id="leans-table-body">
-            <tr><td colspan="7" class="empty-row">No leans graded yet.</td></tr>
+            <tr><td colspan="8" class="empty-row">No picks yet.</td></tr>
           </tbody>
         </table>
       </div>
@@ -109,9 +69,8 @@
 
   <footer>
     <div class="footer-inner">
-      Paper record for evaluation/calibration purposes only. Not investment or
-      betting advice. Lines shown are public consensus, not a live sportsbook
-      board.
+      Paper record for evaluation purposes only. Not investment or betting
+      advice. Lines shown are public consensus, not a live sportsbook board.
     </div>
   </footer>
 
