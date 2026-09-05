@@ -2,6 +2,8 @@
   {
     "matchup": "East Carolina @ Alabama",
     "game_date": "2026-09-05",
+    "odds": -110,
+    "odds_is_assumed": true,
     "market": "total",
     "selection": "under",
     "line": 52.5,
@@ -14,6 +16,8 @@
   {
     "matchup": "Oklahoma State @ Tulsa",
     "game_date": "2026-09-05",
+    "odds": -110,
+    "odds_is_assumed": true,
     "market": "total",
     "selection": "under",
     "line": 59.5,
@@ -26,6 +30,8 @@
   {
     "matchup": "Northern Illinois @ Iowa",
     "game_date": "2026-09-05",
+    "odds": -110,
+    "odds_is_assumed": true,
     "market": "total",
     "selection": "under",
     "line": 44.5,
