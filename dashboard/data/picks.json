@@ -40,5 +40,47 @@
     "result": "win",
     "graded_at_utc": "2026-09-07T20:01:33+00:00",
     "units": 1.0
+  },
+  {
+    "matchup": "Georgia State @ Kennesaw State",
+    "game_date": "2026-09-12",
+    "odds": -110,
+    "odds_is_assumed": true,
+    "market": "spread",
+    "selection": "Kennesaw State",
+    "line": -8.5,
+    "p": 0.57,
+    "kind": "flag",
+    "units": 1.0,
+    "result": "pending",
+    "graded_at_utc": null
+  },
+  {
+    "matchup": "Georgia Southern @ Clemson",
+    "game_date": "2026-09-12",
+    "odds": -110,
+    "odds_is_assumed": true,
+    "market": "total",
+    "selection": "under",
+    "line": 55.5,
+    "p": 0.55,
+    "kind": "flag",
+    "units": 1.0,
+    "result": "pending",
+    "graded_at_utc": null
+  },
+  {
+    "matchup": "North Dakota State @ Air Force",
+    "game_date": "2026-09-12",
+    "odds": -110,
+    "odds_is_assumed": true,
+    "market": "spread",
+    "selection": "Air Force",
+    "line": 3.0,
+    "p": 0.55,
+    "kind": "flag",
+    "units": 1.0,
+    "result": "pending",
+    "graded_at_utc": null
   }
 ]
