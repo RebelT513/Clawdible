@@ -9,9 +9,9 @@
     "line": 52.5,
     "p": 0.56,
     "kind": "flag",
-    "units": 1.0,
-    "result": "pending",
-    "graded_at_utc": null
+    "result": "loss",
+    "graded_at_utc": "2026-09-07T20:01:33+00:00",
+    "units": 1.0
   },
   {
     "matchup": "Oklahoma State @ Tulsa",
@@ -23,9 +23,9 @@
     "line": 59.5,
     "p": 0.56,
     "kind": "flag",
-    "units": 1.0,
-    "result": "pending",
-    "graded_at_utc": null
+    "result": "win",
+    "graded_at_utc": "2026-09-07T20:01:33+00:00",
+    "units": 1.0
   },
   {
     "matchup": "Northern Illinois @ Iowa",
@@ -37,8 +37,8 @@
     "line": 44.5,
     "p": 0.55,
     "kind": "flag",
-    "units": 1.0,
-    "result": "pending",
-    "graded_at_utc": null
+    "result": "win",
+    "graded_at_utc": "2026-09-07T20:01:33+00:00",
+    "units": 1.0
   }
 ]
