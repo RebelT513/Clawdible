@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Clawdible — CFB Track Record</title>
-  <link rel="stylesheet" href="style.css?v=20260905175935">
+  <link rel="stylesheet" href="style.css?v=20260908040117">
 </head>
 <body>
   <header>
@@ -32,6 +32,18 @@
       <div class="stat-card">
         <div class="stat-label">Pending</div>
         <div class="stat-value" id="pending-count">—</div>
+      </div>
+    </div>
+
+    <!-- Units over time -->
+    <div class="card" id="units-chart-card">
+      <div class="card-title">Units Over Time</div>
+      <div class="chart-legend" id="units-chart-legend">
+        <span class="legend-item"><span class="legend-swatch swatch-line"></span>Cumulative units</span>
+        <span class="legend-item"><span class="legend-swatch swatch-dash"></span>Break-even</span>
+      </div>
+      <div class="chart-wrap" id="units-chart-wrap">
+        <div class="chart-empty" id="units-chart-empty">No graded picks yet.</div>
       </div>
     </div>
 
@@ -72,6 +84,6 @@
     </div>
   </footer>
 
-  <script src="app.js?v=20260905175935"></script>
+  <script src="app.js?v=20260908040117"></script>
 </body>
 </html>
