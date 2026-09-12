@@ -180,5 +180,19 @@
     "units": 1.0,
     "result": "pending",
     "graded_at_utc": null
+  },
+  {
+    "matchup": "Tennessee @ Georgia Tech",
+    "game_date": "2026-09-12",
+    "odds": -110,
+    "odds_is_assumed": true,
+    "market": "spread",
+    "selection": "Tennessee",
+    "line": -12.5,
+    "p": 0.555,
+    "kind": "flag",
+    "units": 1.0,
+    "result": "pending",
+    "graded_at_utc": null
   }
 ]
