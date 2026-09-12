@@ -82,5 +82,61 @@
     "units": 1.0,
     "result": "pending",
     "graded_at_utc": null
+  },
+  {
+    "matchup": "UTSA @ Texas State",
+    "game_date": "2026-09-12",
+    "odds": 114,
+    "odds_is_assumed": false,
+    "market": "moneyline",
+    "selection": "UTSA",
+    "line": null,
+    "p": 0.53,
+    "kind": "flag",
+    "units": 1.0,
+    "result": "pending",
+    "graded_at_utc": null
+  },
+  {
+    "matchup": "Jacksonville State @ Ohio",
+    "game_date": "2026-09-12",
+    "odds": 100,
+    "odds_is_assumed": false,
+    "market": "moneyline",
+    "selection": "Jacksonville State",
+    "line": null,
+    "p": 0.56,
+    "kind": "flag",
+    "units": 1.0,
+    "result": "pending",
+    "graded_at_utc": null
+  },
+  {
+    "matchup": "California @ Syracuse",
+    "game_date": "2026-09-12",
+    "odds": -110,
+    "odds_is_assumed": true,
+    "market": "spread",
+    "selection": "Syracuse",
+    "line": -3.5,
+    "p": 0.56,
+    "kind": "flag",
+    "units": 1.0,
+    "result": "pending",
+    "graded_at_utc": null
+  },
+  {
+    "matchup": "Mississippi State @ Minnesota",
+    "game_date": "2026-09-12",
+    "odds": -102,
+    "odds_is_assumed": false,
+    "market": "moneyline",
+    "selection": "Minnesota",
+    "line": null,
+    "p": 0.55,
+    "kind": "flag",
+    "units": 1.0,
+    "result": "pending",
+    "graded_at_utc": null
   }
 ]
