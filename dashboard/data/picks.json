@@ -194,5 +194,19 @@
     "result": "win",
     "graded_at_utc": "2026-09-07T20:01:33+00:00",
     "units": 1.0
+  },
+  {
+    "matchup": "West Virginia @ Virginia",
+    "game_date": "2026-09-19",
+    "odds": -110,
+    "odds_is_assumed": true,
+    "market": "spread",
+    "selection": "Virginia",
+    "line": -10.5,
+    "p": 0.57,
+    "kind": "flag",
+    "units": 1.0,
+    "result": "pending",
+    "graded_at_utc": null
   }
 ]
