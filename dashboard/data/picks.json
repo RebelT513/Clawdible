@@ -208,5 +208,47 @@
     "result": "win",
     "graded_at_utc": "2026-09-07T20:01:33+00:00",
     "units": 1.0
+  },
+  {
+    "matchup": "Tulsa @ Arkansas",
+    "game_date": "2026-09-26",
+    "odds": -110,
+    "odds_is_assumed": true,
+    "market": "spread",
+    "selection": "Tulsa",
+    "line": 7.0,
+    "p": 0.55,
+    "kind": "flag",
+    "units": 1.0,
+    "result": "pending",
+    "graded_at_utc": null
+  },
+  {
+    "matchup": "Oregon State @ UTEP",
+    "game_date": "2026-09-26",
+    "odds": -110,
+    "odds_is_assumed": true,
+    "market": "spread",
+    "selection": "Oregon State",
+    "line": -11.5,
+    "p": 0.55,
+    "kind": "flag",
+    "units": 1.0,
+    "result": "pending",
+    "graded_at_utc": null
+  },
+  {
+    "matchup": "Arizona @ Washington State",
+    "game_date": "2026-09-26",
+    "odds": -110,
+    "odds_is_assumed": true,
+    "market": "total",
+    "selection": "under",
+    "line": 48.5,
+    "p": 0.55,
+    "kind": "flag",
+    "units": 1.0,
+    "result": "pending",
+    "graded_at_utc": null
   }
 ]
