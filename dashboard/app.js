@@ -91,7 +91,7 @@ function renderPicks(picks) {
       <td>${p.game_date || '—'}</td>
       <td>${p.matchup || '—'}</td>
       <td>${(p.market || '—').toUpperCase()}</td>
-      <td>${p.selection || '—'}</td>
+      <td>${p.selection || '—'}${p.origin === 'directed' ? ' <span class="tag-dir" title="minimum-picks rule: promoted from the model\'s strongest lean">min</span>' : ''}</td>
       <td>${fmtLine(p.line, p.market)}</td>
       <td>${fmtOdds(p.odds, p.odds_is_assumed)}</td>
       <td>${p.p !== null && p.p !== undefined ? fmtPct(p.p) : '—'}</td>
