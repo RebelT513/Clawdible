@@ -418,5 +418,20 @@
     "units": 1.0,
     "result": "pending",
     "graded_at_utc": null
+  },
+  {
+    "matchup": "South Florida @ UTSA",
+    "game_date": "2026-10-08",
+    "odds": -110,
+    "odds_is_assumed": true,
+    "market": "spread",
+    "selection": "South Florida",
+    "line": 7.0,
+    "p": 0.57,
+    "kind": "flag",
+    "origin": "model",
+    "units": 1.0,
+    "result": "pending",
+    "graded_at_utc": null
   }
 ]
