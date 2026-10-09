@@ -1,5 +1,20 @@
 [
   {
+    "matchup": "South Florida @ UTSA",
+    "game_date": "2026-10-08",
+    "odds": -110,
+    "odds_is_assumed": true,
+    "market": "spread",
+    "selection": "South Florida",
+    "line": 7.0,
+    "p": 0.57,
+    "kind": "flag",
+    "origin": "model",
+    "result": "push",
+    "graded_at_utc": "2026-10-09T12:15:26+00:00",
+    "units": 1.0
+  },
+  {
     "matchup": "New Mexico State @ Florida International",
     "game_date": "2026-10-07",
     "odds": -110,
@@ -413,21 +428,6 @@
     "selection": "over",
     "line": 57.5,
     "p": 0.58,
-    "kind": "flag",
-    "origin": "model",
-    "units": 1.0,
-    "result": "pending",
-    "graded_at_utc": null
-  },
-  {
-    "matchup": "South Florida @ UTSA",
-    "game_date": "2026-10-08",
-    "odds": -110,
-    "odds_is_assumed": true,
-    "market": "spread",
-    "selection": "South Florida",
-    "line": 7.0,
-    "p": 0.57,
     "kind": "flag",
     "origin": "model",
     "units": 1.0,
