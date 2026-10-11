@@ -523,5 +523,20 @@
     "units": 1.0,
     "result": "pending",
     "graded_at_utc": null
+  },
+  {
+    "matchup": "Louisiana Tech @ UL Monroe",
+    "game_date": "2026-10-17",
+    "odds": -110,
+    "odds_is_assumed": true,
+    "market": "total",
+    "selection": "over",
+    "line": 53.5,
+    "p": 0.57,
+    "kind": "flag",
+    "origin": "model",
+    "units": 1.0,
+    "result": "pending",
+    "graded_at_utc": null
   }
 ]
