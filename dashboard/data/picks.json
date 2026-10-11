@@ -508,5 +508,20 @@
     "units": 1.0,
     "result": "pending",
     "graded_at_utc": null
+  },
+  {
+    "matchup": "San Jos\u00e9 State @ UTEP",
+    "game_date": "2026-10-17",
+    "odds": -110,
+    "odds_is_assumed": true,
+    "market": "total",
+    "selection": "under",
+    "line": 50.5,
+    "p": 0.58,
+    "kind": "flag",
+    "origin": "model",
+    "units": 1.0,
+    "result": "pending",
+    "graded_at_utc": null
   }
 ]
