@@ -433,5 +433,35 @@
     "result": "win",
     "graded_at_utc": "2026-09-07T20:01:33+00:00",
     "units": 1.0
+  },
+  {
+    "matchup": "Kent State @ South Florida",
+    "game_date": "2026-10-17",
+    "odds": -110,
+    "odds_is_assumed": true,
+    "market": "total",
+    "selection": "under",
+    "line": 47.5,
+    "p": 0.57,
+    "kind": "flag",
+    "origin": "model",
+    "units": 1.0,
+    "result": "pending",
+    "graded_at_utc": null
+  },
+  {
+    "matchup": "Cincinnati @ West Virginia",
+    "game_date": "2026-10-17",
+    "odds": -110,
+    "odds_is_assumed": true,
+    "market": "spread",
+    "selection": "Cincinnati",
+    "line": 1.5,
+    "p": 0.57,
+    "kind": "flag",
+    "origin": "model",
+    "units": 1.0,
+    "result": "pending",
+    "graded_at_utc": null
   }
 ]
