@@ -1,5 +1,20 @@
 [
   {
+    "matchup": "Memphis @ Tulane",
+    "game_date": "2026-10-16",
+    "odds": -110,
+    "odds_is_assumed": true,
+    "market": "spread",
+    "selection": "Memphis",
+    "line": -7.0,
+    "p": 0.56,
+    "kind": "flag",
+    "origin": "model",
+    "result": "loss",
+    "graded_at_utc": "2026-10-17T12:15:24+00:00",
+    "units": 1.0
+  },
+  {
     "matchup": "Western Kentucky @ Sam Houston",
     "game_date": "2026-10-14",
     "odds": -105,
@@ -548,21 +563,6 @@
     "selection": "over",
     "line": 53.5,
     "p": 0.57,
-    "kind": "flag",
-    "origin": "model",
-    "units": 1.0,
-    "result": "pending",
-    "graded_at_utc": null
-  },
-  {
-    "matchup": "Memphis @ Tulane",
-    "game_date": "2026-10-16",
-    "odds": -110,
-    "odds_is_assumed": true,
-    "market": "spread",
-    "selection": "Memphis",
-    "line": -7.0,
-    "p": 0.56,
     "kind": "flag",
     "origin": "model",
     "units": 1.0,
