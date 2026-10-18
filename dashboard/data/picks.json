@@ -568,5 +568,20 @@
     "result": "win",
     "graded_at_utc": "2026-09-07T20:01:33+00:00",
     "units": 1.0
+  },
+  {
+    "matchup": "Miami (OH) @ Central Michigan",
+    "game_date": "2026-10-24",
+    "odds": -110,
+    "odds_is_assumed": true,
+    "market": "spread",
+    "selection": "Miami (OH)",
+    "line": 1.5,
+    "p": 0.57,
+    "kind": "flag",
+    "origin": "model",
+    "units": 1.0,
+    "result": "pending",
+    "graded_at_utc": null
   }
 ]
