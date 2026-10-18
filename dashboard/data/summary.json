@@ -1,15 +1,15 @@
 {
   "mode": "paper",
   "note": "Paper record only -- no sportsbook connected. Public lines, -110 assumed juice where noted. Units, not dollars.",
-  "generated_at_utc": "2026-10-18T00:15:08+00:00",
-  "last_updated_utc": "2026-10-18T00:15:08+00:00",
+  "generated_at_utc": "2026-10-18T12:15:16+00:00",
+  "last_updated_utc": "2026-10-18T12:15:16+00:00",
   "flags": {
     "made": 38,
-    "graded": 32,
-    "pending": 6,
-    "wins": 11,
-    "losses": 20,
+    "graded": 38,
+    "pending": 0,
+    "wins": 13,
+    "losses": 24,
     "pushes": 1,
-    "units_won": -9.77
+    "units_won": -11.95
   }
 }
