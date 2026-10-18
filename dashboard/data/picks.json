@@ -598,5 +598,35 @@
     "units": 1.0,
     "result": "pending",
     "graded_at_utc": null
+  },
+  {
+    "matchup": "Oklahoma @ Mississippi State",
+    "game_date": "2026-10-24",
+    "odds": -110,
+    "odds_is_assumed": true,
+    "market": "spread",
+    "selection": "Mississippi State",
+    "line": 2.5,
+    "p": 0.56,
+    "kind": "flag",
+    "origin": "model",
+    "units": 1.0,
+    "result": "pending",
+    "graded_at_utc": null
+  },
+  {
+    "matchup": "Colorado @ Oklahoma State",
+    "game_date": "2026-10-24",
+    "odds": -110,
+    "odds_is_assumed": true,
+    "market": "spread",
+    "selection": "Oklahoma State",
+    "line": -13.5,
+    "p": 0.56,
+    "kind": "flag",
+    "origin": "model",
+    "units": 1.0,
+    "result": "pending",
+    "graded_at_utc": null
   }
 ]
