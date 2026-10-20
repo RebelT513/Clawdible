@@ -643,5 +643,35 @@
     "units": 1.0,
     "result": "pending",
     "graded_at_utc": null
+  },
+  {
+    "matchup": "BYU @ UCF",
+    "game_date": "2026-10-24",
+    "odds": -110,
+    "odds_is_assumed": true,
+    "market": "spread",
+    "selection": "BYU",
+    "line": -6.5,
+    "p": 0.57,
+    "kind": "flag",
+    "origin": "model",
+    "units": 1.0,
+    "result": "pending",
+    "graded_at_utc": null
+  },
+  {
+    "matchup": "Air Force @ Wyoming",
+    "game_date": "2026-10-23",
+    "odds": -110,
+    "odds_is_assumed": true,
+    "market": "spread",
+    "selection": "Air Force",
+    "line": -5.5,
+    "p": 0.57,
+    "kind": "flag",
+    "origin": "model",
+    "units": 1.0,
+    "result": "pending",
+    "graded_at_utc": null
   }
 ]
