@@ -688,5 +688,20 @@
     "units": 1.0,
     "result": "pending",
     "graded_at_utc": null
+  },
+  {
+    "matchup": "Massachusetts @ UConn",
+    "game_date": "2026-10-23",
+    "odds": -110,
+    "odds_is_assumed": true,
+    "market": "spread",
+    "selection": "Massachusetts",
+    "line": 14.5,
+    "p": 0.57,
+    "kind": "flag",
+    "origin": "model",
+    "units": 1.0,
+    "result": "pending",
+    "graded_at_utc": null
   }
 ]
