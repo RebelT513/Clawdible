@@ -570,8 +570,8 @@
     "units": 1.0
   },
   {
-    "matchup": "Miami (OH) @ Central Michigan",
-    "game_date": "2026-10-24",
+    "matchup": null,
+    "game_date": null,
     "odds": -110,
     "odds_is_assumed": true,
     "market": "spread",
@@ -585,8 +585,8 @@
     "graded_at_utc": null
   },
   {
-    "matchup": "Iowa State @ Arizona",
-    "game_date": "2026-10-24",
+    "matchup": null,
+    "game_date": null,
     "odds": -110,
     "odds_is_assumed": true,
     "market": "spread",
@@ -600,8 +600,8 @@
     "graded_at_utc": null
   },
   {
-    "matchup": "Oklahoma @ Mississippi State",
-    "game_date": "2026-10-24",
+    "matchup": null,
+    "game_date": null,
     "odds": -110,
     "odds_is_assumed": true,
     "market": "spread",
@@ -615,8 +615,8 @@
     "graded_at_utc": null
   },
   {
-    "matchup": "Colorado @ Oklahoma State",
-    "game_date": "2026-10-24",
+    "matchup": null,
+    "game_date": null,
     "odds": -110,
     "odds_is_assumed": true,
     "market": "spread",
@@ -630,8 +630,8 @@
     "graded_at_utc": null
   },
   {
-    "matchup": "Louisiana @ Southern Miss",
-    "game_date": "2026-10-24",
+    "matchup": null,
+    "game_date": null,
     "odds": -110,
     "odds_is_assumed": true,
     "market": "spread",
@@ -645,8 +645,8 @@
     "graded_at_utc": null
   },
   {
-    "matchup": "BYU @ UCF",
-    "game_date": "2026-10-24",
+    "matchup": null,
+    "game_date": null,
     "odds": -110,
     "odds_is_assumed": true,
     "market": "spread",
@@ -660,8 +660,8 @@
     "graded_at_utc": null
   },
   {
-    "matchup": "Air Force @ Wyoming",
-    "game_date": "2026-10-23",
+    "matchup": null,
+    "game_date": null,
     "odds": -110,
     "odds_is_assumed": true,
     "market": "spread",
@@ -675,8 +675,8 @@
     "graded_at_utc": null
   },
   {
-    "matchup": "James Madison @ App State",
-    "game_date": "2026-10-22",
+    "matchup": null,
+    "game_date": null,
     "odds": -110,
     "odds_is_assumed": true,
     "market": "spread",
@@ -690,8 +690,8 @@
     "graded_at_utc": null
   },
   {
-    "matchup": "Massachusetts @ UConn",
-    "game_date": "2026-10-23",
+    "matchup": null,
+    "game_date": null,
     "odds": -110,
     "odds_is_assumed": true,
     "market": "spread",
