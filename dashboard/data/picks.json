@@ -718,5 +718,50 @@
     "units": 1.0,
     "result": "pending",
     "graded_at_utc": null
+  },
+  {
+    "matchup": "Oregon State @ Fresno State",
+    "game_date": "2026-10-31",
+    "odds": -110,
+    "odds_is_assumed": true,
+    "market": "spread",
+    "selection": "Fresno State",
+    "line": 6.0,
+    "p": 0.53,
+    "kind": "flag",
+    "origin": "rule",
+    "units": 1.0,
+    "result": "pending",
+    "graded_at_utc": null
+  },
+  {
+    "matchup": "Northern Illinois @ UNLV",
+    "game_date": "2026-10-31",
+    "odds": -110,
+    "odds_is_assumed": true,
+    "market": "spread",
+    "selection": "Northern Illinois",
+    "line": 21.5,
+    "p": 0.53,
+    "kind": "flag",
+    "origin": "rule",
+    "units": 1.0,
+    "result": "pending",
+    "graded_at_utc": null
+  },
+  {
+    "matchup": "Texas State @ Boise State",
+    "game_date": "2026-10-31",
+    "odds": -110,
+    "odds_is_assumed": true,
+    "market": "spread",
+    "selection": "Texas State",
+    "line": 10.0,
+    "p": 0.52,
+    "kind": "flag",
+    "origin": "rule",
+    "units": 1.0,
+    "result": "pending",
+    "graded_at_utc": null
   }
 ]
