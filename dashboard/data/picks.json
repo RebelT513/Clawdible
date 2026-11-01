@@ -705,8 +705,8 @@
     "units": 1.0
   },
   {
-    "matchup": null,
-    "game_date": null,
+    "matchup": "Oregon @ Ohio State",
+    "game_date": "2026-11-07",
     "odds": -110,
     "odds_is_assumed": true,
     "market": "spread",
