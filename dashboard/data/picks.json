@@ -1,5 +1,20 @@
 [
   {
+    "matchup": "James Madison @ Southern Miss",
+    "game_date": "2026-11-05",
+    "odds": -110,
+    "odds_is_assumed": true,
+    "market": "spread",
+    "selection": "Southern Miss",
+    "line": 13.5,
+    "p": 0.55,
+    "kind": "flag",
+    "origin": "rule",
+    "result": "loss",
+    "graded_at_utc": "2026-11-06T13:15:26+00:00",
+    "units": 1.0
+  },
+  {
     "matchup": "Oregon State @ Fresno State",
     "game_date": "2026-10-31",
     "odds": -110,
@@ -760,21 +775,6 @@
     "p": 0.58,
     "kind": "flag",
     "origin": "model",
-    "units": 1.0,
-    "result": "pending",
-    "graded_at_utc": null
-  },
-  {
-    "matchup": "James Madison @ Southern Miss",
-    "game_date": "2026-11-05",
-    "odds": -110,
-    "odds_is_assumed": true,
-    "market": "spread",
-    "selection": "Southern Miss",
-    "line": 13.5,
-    "p": 0.55,
-    "kind": "flag",
-    "origin": "rule",
     "units": 1.0,
     "result": "pending",
     "graded_at_utc": null
