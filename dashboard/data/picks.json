@@ -823,5 +823,20 @@
     "result": "win",
     "graded_at_utc": "2026-09-07T20:01:33+00:00",
     "units": 1.0
+  },
+  {
+    "matchup": "Illinois @ UCLA",
+    "game_date": "2026-11-13",
+    "odds": -110,
+    "odds_is_assumed": true,
+    "market": "spread",
+    "selection": "Illinois",
+    "line": 10.5,
+    "p": 0.52,
+    "kind": "flag",
+    "origin": "rule",
+    "units": 1.0,
+    "result": "pending",
+    "graded_at_utc": null
   }
 ]
