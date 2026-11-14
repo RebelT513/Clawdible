@@ -853,5 +853,20 @@
     "units": 1.0,
     "result": "pending",
     "graded_at_utc": null
+  },
+  {
+    "matchup": "Wake Forest @ SMU",
+    "game_date": "2026-11-14",
+    "odds": -118,
+    "odds_is_assumed": false,
+    "market": "moneyline",
+    "selection": "SMU",
+    "line": null,
+    "p": 0.565,
+    "kind": "flag",
+    "origin": "model",
+    "units": 1.0,
+    "result": "pending",
+    "graded_at_utc": null
   }
 ]
