@@ -883,5 +883,20 @@
     "result": "win",
     "graded_at_utc": "2026-09-07T20:01:33+00:00",
     "units": 1.0
+  },
+  {
+    "matchup": "Rice @ Temple",
+    "game_date": "2026-11-19",
+    "odds": -110,
+    "odds_is_assumed": true,
+    "market": "spread",
+    "selection": "Rice",
+    "line": 2.5,
+    "p": 0.51,
+    "kind": "flag",
+    "origin": "rule",
+    "units": 1.0,
+    "result": "pending",
+    "graded_at_utc": null
   }
 ]
