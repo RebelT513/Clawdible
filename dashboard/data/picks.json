@@ -1,5 +1,20 @@
 [
   {
+    "matchup": "LSU @ Tennessee",
+    "game_date": "2026-11-21",
+    "odds": -110,
+    "odds_is_assumed": true,
+    "market": "spread",
+    "selection": "Tennessee",
+    "line": 1.5,
+    "p": 0.56,
+    "kind": "flag",
+    "origin": "model",
+    "result": "win",
+    "graded_at_utc": "2026-11-22T13:15:27+00:00",
+    "units": 1.0
+  },
+  {
     "matchup": "Iowa State @ UCF",
     "game_date": "2026-11-20",
     "odds": -110,
@@ -913,20 +928,5 @@
     "result": "win",
     "graded_at_utc": "2026-09-07T20:01:33+00:00",
     "units": 1.0
-  },
-  {
-    "matchup": "LSU @ Tennessee",
-    "game_date": "2026-11-21",
-    "odds": -110,
-    "odds_is_assumed": true,
-    "market": "spread",
-    "selection": "Tennessee",
-    "line": 1.5,
-    "p": 0.56,
-    "kind": "flag",
-    "origin": "model",
-    "units": 1.0,
-    "result": "pending",
-    "graded_at_utc": null
   }
 ]
